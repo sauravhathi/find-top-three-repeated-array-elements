@@ -4,7 +4,9 @@ This is a simple web app to find top three repeated arrays in a given array.
 
 ## Demo
 
-[https://sauravhathi.github.io/find-top-three-repeated-array-elements/](https://sauravhathi.github.io/find-top-three-repeated-array-elements/)
+### [https://sauravhathi.github.io/find-top-three-repeated-array-elements/](https://sauravhathi.github.io/find-top-three-repeated-array-elements/)
+
+![image](https://user-images.githubusercontent.com/61316762/198848853-5f7ef899-dd05-4311-8cee-e678c358ed7c.png)
 
 ## How to use
 
